@@ -33,7 +33,7 @@
 [система умножения.py](https://github.com/Galua122/works/blob/main/%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%20%D1%83%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.py)-система умножения в python
 
 
-таблица умножения(с40, с50).xlsx-таблица уможения в excel
+[таблица умножения(с40, с50).xlsx](https://github.com/Galua122/works/blob/main/%D1%8140%2C%D1%8150.xlsx)-таблица уможения в excel
 
 
 [программа перевода по ходу Хэмминга.ipynd](https://github.com/Galua122/works/blob/main/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0%20%D0%BF%D0%BE%20%D1%85%D0%BE%D0%B4%D1%83%20%D0%A5%D1%8D%D0%BC%D0%BC%D0%B8%D0%BD%D0%B3%D0%B0.ipynb)-программа перевода по коду Хэмминга в Юпитере
