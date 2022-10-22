@@ -37,3 +37,4 @@ wordpress: ennsegor122.wordpress.com
 нейронка в excel(Нейронка.xlsx)
 
 
+булева алгебра
