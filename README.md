@@ -12,7 +12,7 @@
 # Список файлов в репозитории:
 
 
-Морзянка.py-перевод кода Морзе
+[Морзянка.py](https://github.com/Galua122/works/blob/main/%D0%BC%D0%BE%D1%80%D0%B7%D1%8F%D0%BD%D0%BA%D0%B0.py)-перевод кода Морзе
 
 
 [10 в не10.py](https://github.com/Galua122/works/blob/main/10%20%D0%BD%D0%B510.py)-Перевод из десятичной СС в указанную 
