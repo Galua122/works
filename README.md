@@ -48,4 +48,7 @@ BDtest.py
 turtle(дерево).py
 
 
-морза.xlsx
+морзе.xlsx
+
+
+морзянка.py
