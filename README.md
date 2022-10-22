@@ -36,7 +36,7 @@
 таблица умножения(с40, с50).xlsx-таблица уможения в excel
 
 
-программа перевода по ходу Хэмминга.ipynd-программа перевода по коду Хэмминга в Юпитере
+[программа перевода по ходу Хэмминга.ipynd](https://github.com/Galua122/works/blob/main/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0%20%D0%BF%D0%BE%20%D1%85%D0%BE%D0%B4%D1%83%20%D0%A5%D1%8D%D0%BC%D0%BC%D0%B8%D0%BD%D0%B3%D0%B0.ipynb)-программа перевода по коду Хэмминга в Юпитере
 
 
 [BDtest.py](https://github.com/Galua122/works/blob/main/bdtest.py)-база данных в python
