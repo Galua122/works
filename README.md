@@ -1,10 +1,12 @@
 # Шабанова_Галина_122
 ![N|Solid](https://scientificrussia.ru/images/b/teb-full.jpg)
 # Аккаунты:
+
+
 [аккаунт codepen](https://codepen.io/Galua122)
 
 
-https://wordpress.com/home/reallife979489743.wordpress.com
+[аккаунт wordpress](https://wordpress.com/home/reallife979489743.wordpress.com)
  
  
 Список файлов в репозитории:
@@ -34,7 +36,7 @@ https://wordpress.com/home/reallife979489743.wordpress.com
 wordpress: ennsegor122.wordpress.com
 
 
-нейронка в excel(Нейронка.xlsx)
+скрин нейронки
 
 
 булева алгебра.xlsx
@@ -49,4 +51,7 @@ wordpress: ennsegor122.wordpress.com
 программа перевода по ходу Хэмминга.ipun
 
 
+BDtest.py
 
+
+turtle
