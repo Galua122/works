@@ -24,7 +24,7 @@
 [ЕГЭ.txt](https://github.com/Galua122/works/blob/main/%D0%95%D0%93%D0%AD.txt)-1 задание ЕГЭ
 
 
-Нейронка.png-скриншот из нейросимулятора
+[Нейронка.png](https://github.com/Galua122/works/blob/main/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BA%D0%B0.png)-скриншот из нейросимулятора
 
 
 булева алгебра(книга 2, 3).xlsx-логические высказывания
