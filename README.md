@@ -39,7 +39,7 @@
 программа перевода по ходу Хэмминга.ipynd-программа перевода по коду Хэмминга в Юпитере
 
 
-BDtest.py-база данных в python
+[BDtest.py](https://github.com/Galua122/works/blob/main/bdtest.py)-база данных в python
 
 
 [turtle(дерево)](https://github.com/Galua122/works/tree/main/turtle).py-рисунок дерева в python
