@@ -46,4 +46,7 @@ wordpress: ennsegor122.wordpress.com
 таблица умножение.xlsx
 
 
+программа перевода по ходу Хэмминга.ipun
+
+
 
