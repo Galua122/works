@@ -24,9 +24,6 @@
 1 задание ЕГЭ
 
 
-wordpress: ennsegor122.wordpress.com
-
-
 скриншот из нейросимулятора
 
 
