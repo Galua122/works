@@ -16,9 +16,6 @@ https://wordpress.com/home/reallife979489743.wordpress.com
 Морзянка.py
 
 
-Морзянка.xlsx
-
-
 Перевод числа из указываемой СС в десятичную и наоборот(не 10 в 10 и 10 в не 10.xlsx)
 
 
@@ -32,9 +29,6 @@ https://wordpress.com/home/reallife979489743.wordpress.com
 
 
 2 задание 355кг(3.xlsx)
-
-
-файл юпитер
 
 
 wordpress: ennsegor122.wordpress.com
