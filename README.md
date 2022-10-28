@@ -58,4 +58,4 @@ $$ F=mc^2 $$
 
 #Приведение к нормальной форме
 
-$$ A \oplus B = (\bar{A} & B) \vee (A & \bar{B)} $$
+A \oplus B = (\bar{A} & B) \vee (A & \bar{B)}
