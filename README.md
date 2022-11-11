@@ -70,4 +70,5 @@ $$ \color{Blue}\overrightarrow{S}=\overrightarrow{V_{0}}\cdot t+\frac{\overright
 $$ \color{Green}x = x_{0}+v_{0}\cdot t+\frac{at^{2}}{2} $$
 
 
-\color{Fuchsia}\bar{E_{1}^{2}}=\sqrt[]{\frac{Fa^{x-1} }{(x-1)\cdot x}}+\alpha^{\frac{1}{3}}_{1}+\beta^{\frac{2}{3}}_{2}
+![lagrida_latex_editor (20)](https://user-images.githubusercontent.com/114716791/201263123-1957016d-e3e7-45eb-98c9-9adf5d359fb5.png)
+
