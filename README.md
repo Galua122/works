@@ -62,3 +62,6 @@ $$ A \oplus B = (\bar{A} \wedge  B) \vee (A \wedge  \bar{B)} $$
 
 
 $$ \color{Fuchsia}\bar{E_{1}^{2}}=\sqrt[]{\frac{Fa^{x-1} }{(x-1)\cdot x}}+\alpha^{\frac{1}{3}}_{1}+\beta^{\frac{2}{3}}_{2} $$
+
+
+$$ \color{Blue}\overrightarrow{S}=\overrightarrow{V_{0}}\cdot t+\frac{\overrightarrow{a}t}{2} $$
