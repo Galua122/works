@@ -65,3 +65,6 @@ $$ \color{Fuchsia}\bar{E_{1}^{2}}=\sqrt[]{\frac{Fa^{x-1} }{(x-1)\cdot x}}+\alpha
 
 
 $$ \color{Blue}\overrightarrow{S}=\overrightarrow{V_{0}}\cdot t+\frac{\overrightarrow{a}t}{2} $$
+
+
+$$ \color{Green}x = x_{0}+v_{0}\cdot t+\frac{at^{2}}{2} $$
