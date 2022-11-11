@@ -61,4 +61,4 @@ $$ F=mc^2 $$
 $$ A \oplus B = (\bar{A} \wedge  B) \vee (A \wedge  \bar{B)} $$
 
 
-$$ \bar{E_{1}^{2}}=\sqrt[]{\frac{Fa^{x-1} }{(x-1)\cdot x}}+\alpha^{\frac{1}{3}}_{1}+\beta^{\frac{2}{3}}_{2} $$
+$$ \color{Fuchsia}\bar{E_{1}^{2}}=\sqrt[]{\frac{Fa^{x-1} }{(x-1)\cdot x}}+\alpha^{\frac{1}{3}}_{1}+\beta^{\frac{2}{3}}_{2} $$
