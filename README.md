@@ -58,7 +58,7 @@ $$ F=mc^2 $$
 
 # Приведение к нормальной форме
 
-$$ A \oplus B = (\bar{A} \wedge  B) \vee (A \wedge  \bar{B)} $$
+$$ \color{Orange}A \oplus B = (\bar{A} \wedge  B) \vee (A \wedge  \bar{B)} $$
 
 
 $$ \color{Fuchsia}\bar{E_{1}^{2}}=\sqrt[]{\frac{Fa^{x-1} }{(x-1)\cdot x}}+\alpha^{\frac{1}{3}}_{1}+\beta^{\frac{2}{3}}_{2} $$
