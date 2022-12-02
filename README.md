@@ -76,8 +76,8 @@ $$ \color{Green}x = x_{0}+v_{0}\cdot t+\frac{at^{2}}{2} $$
 ```mermaid
 flowchart LR
 
-A[Hard] -->|Text| B(Round)
+A[10 класс] -->|аттестация| B(11 класс)
 B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+C -->|сдал хорошо| D[dream life]
+C -->|не сдал| E[выходишь замуж]
 ```
