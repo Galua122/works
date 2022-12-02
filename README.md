@@ -72,3 +72,12 @@ $$ \color{Green}x = x_{0}+v_{0}\cdot t+\frac{at^{2}}{2} $$
 
 ![lagrida_latex_editor (20)](https://user-images.githubusercontent.com/114716791/201263123-1957016d-e3e7-45eb-98c9-9adf5d359fb5.png)
 
+
+```mermaid
+flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
