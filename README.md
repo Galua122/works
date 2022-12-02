@@ -77,7 +77,7 @@ $$ \color{Green}x = x_{0}+v_{0}\cdot t+\frac{at^{2}}{2} $$
 flowchart LR
 
 A[10 класс] -->|аттестация| B(11 класс)
-B --> C{Decision}
+B --> C{ЕГЭ}
 C -->|сдал хорошо| D[dream life]
 C -->|не сдал| E[выходишь замуж]
 ```
