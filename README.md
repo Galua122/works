@@ -85,10 +85,29 @@ C -->|не сдал| E[выходишь замуж]
 
 
 
-Plugin	README
-Dropbox	plugins/dropbox/README.md
-GitHub	plugins/github/README.md
-Google Drive	plugins/googledrive/README.md
-OneDrive	plugins/onedrive/README.md
-Medium	plugins/medium/README.md
-Google Analytics	plugins/googleanalytics/README.md
+| Номер задания | Готовность |
+| ------ | ------ |
+| 1 |  |
+| 2 |  |
+| 3 |  |
+| 4 |  |
+| 5 |  |
+| 6 |  |
+| 7 |  |
+| 8 |  |
+| 9 |  |
+| 10 |  |
+| 11 |  |
+| 12 |  |
+| 13 |  |
+| 14 |  |
+| 15 |  |
+| 16 |  |
+| 5 |  |
+| 6 |  |
+| 7 |  |
+| 8 |  |
+| 9 |  |
+| 10 |  |
+| 11 |  |
+| 12 |  |
