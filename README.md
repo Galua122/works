@@ -85,16 +85,10 @@ C -->|не сдал| E[выходишь замуж]
 
 
 
-   [dill]: <https://github.com/joemccann/dillinger>
-   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
+Plugin	README
+Dropbox	plugins/dropbox/README.md
+GitHub	plugins/github/README.md
+Google Drive	plugins/googledrive/README.md
+OneDrive	plugins/onedrive/README.md
+Medium	plugins/medium/README.md
+Google Analytics	plugins/googleanalytics/README.md
