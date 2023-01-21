@@ -29,3 +29,12 @@ while a > 0:
     n += a % 4 == 3
     a = a // 4
 print(n)
+
+#12
+s = 86 * '8'
+while '2222' in s or '8888' in s:
+    if '2222' in s:
+        s = s.replace('2222', '88')
+    else:
+        s = s.replace('8888', '22')
+print(s)
