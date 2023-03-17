@@ -8,3 +8,4 @@ with open('26.txt') as f:
             mini=s[i]
             k+=1
 print(k,mini)
+
